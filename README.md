@@ -2,7 +2,7 @@
 
 # Utils
 
-[Course Certificate](https://globallogic.udemy.com/certificate/UC-eaff279c-513a-47dd-8b7a-d26ba06d79a8/)
+[Course Certificate](https://udemy.com/certificate/UC-eaff279c-513a-47dd-8b7a-d26ba06d79a8/)
 
 [Go](https://go.dev/dl/)
 
